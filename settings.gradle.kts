@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "dictionaryApp"
 include(":app")
+include(":featureDictionary")
+include(":featureDictionary:domain")

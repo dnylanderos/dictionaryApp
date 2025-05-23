@@ -1,6 +1,5 @@
-package com.dictionary.dictionaryApp.ui.theme
+package com.dictionary.dictionaryApp.ui.presentation
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

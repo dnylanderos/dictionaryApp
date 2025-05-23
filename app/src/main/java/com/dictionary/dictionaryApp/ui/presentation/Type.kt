@@ -1,4 +1,4 @@
-package com.dictionary.dictionaryApp.ui.theme
+package com.dictionary.dictionaryApp.ui.presentation
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
